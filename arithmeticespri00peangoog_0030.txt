@@ -1,0 +1,62 @@
+-8-
+
+4. a‚b‚ceN.0.(a÷b)c=ac†bo.
+Nota. Haec est prop. 5· Eucmms elem. libri VH.
+
+Dem.a,beN.P1:0:1e[ce]Ts. (1) ¹
+a,b,ceN.0e[ce]Ts:0:(a†b)c=ac†bc.§1P22:0:(a ,
+
+-1-,1)ο4-α1-11;αο1-1]ο-1α-11.Ρ2;;)ται-11)(Η-
+1)=a(c†1)4b(0†1):0:c÷1e[ce]Ts. -(2)
+(1)(2).9.Theor.
+
+5. aeN.[).1><a=a.
+
+Dem. 1ε[α ε] Ts. (1) ,
+
+, ae[ae]Ts.0.1><a=a.0.1)(a†1=a†1.0.1><(a
+†1):a†1.0.a†1e[ae]Ts. 12)
+(1) (21911101.
+
+6. a,beN.0.ba†a=(o†1)a.
+
+7. a,beN.0.ab=ba. (EucL.VII‚ 16)
+
+Dem. aeN.P5.P1:0.a><1=a=1><a:0:1e[be]Ts. (1)
+a,beN.be[be]Ts:nzabzba10:ab†a=ba†a.P1.P6
+
+totafflri)=(b†1)a:0:b÷1e[be]Ts. (2) ,
+
+(1) (2).0.Theor.
+
+8. a,b,ceN.0.a(b†c)=ab†ac.
+
+Dem. P4.P7:0.The0r.
+
+9. a‚b‚ceN.a=b:0:ac=be.
+
+Dem. a‚beN.a=b::0::1e[ce]Ts.·.ce[oe]Ts.n:ac=bc.a=
+b:0:a0†a:bc†b:0:a(c†1)=b(c†1):0:c÷1
+e[ce]Ts::0:ceN.0.Ts.
+
+10. a‚b,ceN.'a<b:0.(b—a)c:bc—ac. (EucL.VII‚7)
+
+Dem. Hyp.0:b-—aeN.(b-a)†a=b:0:(b-a)c-{-ac=bc
+:0:(b-a)c1=bc-ac.
+
+11. a‚b‚0eN.a<b:0:ac<bc.
+
+Dem. Hyp.0:b-aeN.P3:0:(b-a)ceN.P10:0:bc-aceN
+:oThesis.
+
+12. a‚v,ceN.0.·.a<o.=.ac<bc:a=b.=.ac=hc:a>b
+.:.ac>bc.
+
+13. a,b‚a'‚b'eN.a<a'.b<b':0:ab<a·'b'.
+
+14. α,ϋεΝ;[).α1.>υ;.α.
+
+. α,1),ψοεΝ.ο.α(1ο)--αῡο.
+
+ 
+
